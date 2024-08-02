@@ -1,0 +1,39 @@
+.section{
+    max-width: 710px;
+    margin:70px auto;
+}
+
+table{
+    width:100%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+table th{
+    width:20%;
+}
+
+table,td,th,tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+button{
+    background-color: green;
+    color: white;
+    padding:8px 10px;
+}
+
+input{
+    height:25px;
+}
+
+select{
+    width:130px;
+    height:30px;
+}
+
+#btn1,#btn2{
+    margin-left:10px;
+    padding: 5px;
+}
